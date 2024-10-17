@@ -1,6 +1,6 @@
-# NotPixTod
+# Not Pix Inject
 
-Auto paint and claim for N\*t P\*xel
+Auto paint and claim for Not Pixel Inject balance
 
 The English version of the Readme is available at [README_EN.md](README_EN.md)
 
