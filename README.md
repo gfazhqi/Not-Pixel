@@ -1,4 +1,4 @@
-# Not Pix Inject
+# Not Pixel Inject
 
 Auto paint and claim for Not Pixel Inject balance
 
